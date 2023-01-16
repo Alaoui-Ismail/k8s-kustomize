@@ -1,5 +1,0 @@
-resources:
-  - ns.yaml
-  - deploy.yaml
-  - svc.yaml
-  - cm.yaml
